@@ -1,9 +1,4 @@
 [
-  {
-    "type": "folder",
-    "addDate": 1660137230499,
-    "title": "书签栏",
-    "children": [
       {
         "type": "folder",
         "addDate": 1731755899003,
@@ -586,5 +581,4 @@
         ]
       }
     ]
-  }
 ]
