@@ -1,4 +1,9 @@
 [
+  {
+    "type": "folder",
+    "addDate": 1660137230499,
+    "title": "书签栏",
+    "children": [
       {
         "type": "folder",
         "addDate": 1731755899003,
@@ -66,6 +71,13 @@
             "title": "ChatGPT",
             "icon": "https://logo.clearbit.com/chatgpt.com",
             "url": "https://chatgpt.com/c/10ffaabc-7892-4563-abe4-e46361d1430b"
+          },
+          {
+            "type": "link",
+            "addDate": 1731757111170,
+            "title": "Pintree",
+            "icon": "https://logo.clearbit.com/happysirluca.github.io",
+            "url": "https://happysirluca.github.io/pintree/"
           }
         ]
       },
@@ -581,4 +593,5 @@
         ]
       }
     ]
+  }
 ]
